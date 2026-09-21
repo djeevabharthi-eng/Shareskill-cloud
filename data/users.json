@@ -1,0 +1,122 @@
+[
+  {
+    "id": "user-jeeva",
+    "name": "Jeeva bharathi D",
+    "email": "jeeva@shareskill.cloud",
+    "city": "Thanjavur",
+    "country": "India",
+    "bio": "I know python basics but I want to learn about web development basics. I am an 3rd year student",
+    "avatarUrl": "",
+    "teachSkills": [
+      {
+        "id": "s-t-1",
+        "name": "Python basic",
+        "category": "Programming",
+        "level": "Beginner"
+      }
+    ],
+    "learnSkills": [
+      {
+        "id": "s-l-1",
+        "name": "Web development",
+        "category": "Programming",
+        "level": "Intermediate"
+      }
+    ],
+    "availability": "Flexible / anytime",
+    "locationPreference": "Online"
+  },
+  {
+    "id": "user-darksoul",
+    "name": "Darksoul",
+    "email": "darksoul@shareskill.cloud",
+    "city": "Chennai",
+    "country": "India",
+    "bio": "Full-stack web engineer enthusiastic about algorithms and python.",
+    "avatarUrl": "",
+    "teachSkills": [
+      {
+        "id": "s-t-2",
+        "name": "Web development",
+        "category": "Programming",
+        "level": "Expert"
+      }
+    ],
+    "learnSkills": [
+      {
+        "id": "s-l-2",
+        "name": "Python",
+        "category": "Programming",
+        "level": "Intermediate"
+      }
+    ],
+    "availability": "Flexible / anytime",
+    "locationPreference": "Online"
+  },
+  {
+    "id": "user-karthik",
+    "name": "Karthik R",
+    "email": "karthik@shareskill.cloud",
+    "city": "Bengaluru",
+    "country": "India",
+    "bio": "Software tutor passionate about programming fundamentals, algorithms, and clean code.",
+    "avatarUrl": "",
+    "teachSkills": [
+      {
+        "id": "s-t-3",
+        "name": "Python basics",
+        "category": "Programming",
+        "level": "Beginner"
+      },
+      {
+        "id": "s-t-4",
+        "name": "HTML & CSS",
+        "category": "Programming",
+        "level": "Beginner"
+      }
+    ],
+    "learnSkills": [
+      {
+        "id": "s-l-3",
+        "name": "Cloud Architecture",
+        "category": "Programming",
+        "level": "Intermediate"
+      }
+    ],
+    "availability": "Weekday evenings",
+    "locationPreference": "Online"
+  },
+  {
+    "id": "user-arun",
+    "name": "Arun Kumar",
+    "email": "arun@shareskill.cloud",
+    "city": "Coimbatore",
+    "country": "India",
+    "bio": "Financial analyst and Excel wizard. Passionate about exchanging Excel data models, advanced formulas, and dashboards for Python programming fundamentals.",
+    "avatarUrl": "",
+    "teachSkills": [
+      {
+        "id": "s-t-arun-1",
+        "name": "Excel",
+        "category": "Data Analysis",
+        "level": "Expert"
+      },
+      {
+        "id": "s-t-arun-2",
+        "name": "Power BI",
+        "category": "Data Analysis",
+        "level": "Intermediate"
+      }
+    ],
+    "learnSkills": [
+      {
+        "id": "s-l-arun-1",
+        "name": "Python",
+        "category": "Programming",
+        "level": "Beginner"
+      }
+    ],
+    "availability": "Weekday evenings",
+    "locationPreference": "Online"
+  }
+]

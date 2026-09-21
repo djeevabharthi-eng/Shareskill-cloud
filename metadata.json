@@ -1,0 +1,6 @@
+{
+  "name": "ShareSkill Cloud",
+  "description": "Trade what you know for what you want to learn. Peer-to-peer skill exchange platform with matching, real-time messaging, and video calling.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "act-1",
+    "type": "session_scheduled",
+    "title": "Session scheduled",
+    "description": "Next session with Arun Kumar (Python ↔ Excel) set for Sep 18 at 7:00 PM.",
+    "timestamp": "2026-09-21T13:29:24.722Z",
+    "timeAgo": "1 hour ago",
+    "relatedId": "session-arun-1",
+    "partnerName": "Arun Kumar"
+  },
+  {
+    "id": "act-2",
+    "type": "request_accepted",
+    "title": "Exchange request accepted",
+    "description": "Exchange with Arun Kumar is active: teaching Python, learning Excel.",
+    "timestamp": "2026-09-21T10:29:24.722Z",
+    "timeAgo": "4 hours ago",
+    "relatedId": "req-arun",
+    "partnerName": "Arun Kumar"
+  },
+  {
+    "id": "act-3",
+    "type": "new_message",
+    "title": "New message",
+    "description": "New message from Darksoul: 'Bro send me your location i will come taught web dev'",
+    "timestamp": "2026-09-20T14:29:24.722Z",
+    "timeAgo": "Yesterday",
+    "relatedId": "user-darksoul",
+    "partnerName": "Darksoul"
+  },
+  {
+    "id": "act-4",
+    "type": "new_match",
+    "title": "New match",
+    "description": "Compatible match with Karthik R: teaches HTML & CSS, learning Cloud Architecture.",
+    "timestamp": "2026-09-19T14:29:24.722Z",
+    "timeAgo": "2 days ago",
+    "relatedId": "user-karthik",
+    "partnerName": "Karthik R"
+  },
+  {
+    "id": "act-5",
+    "type": "session_completed",
+    "title": "Session completed",
+    "description": "Completed session with Darksoul on Web development. 5-star rating submitted.",
+    "timestamp": "2026-09-18T14:29:24.722Z",
+    "timeAgo": "3 days ago",
+    "relatedId": "session-darksoul-1",
+    "partnerName": "Darksoul"
+  }
+]

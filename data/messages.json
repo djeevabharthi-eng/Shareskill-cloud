@@ -1,0 +1,16 @@
+[
+  {
+    "id": "msg-1789669173029-3y0ru",
+    "senderId": "user-jeeva",
+    "senderName": "Jeeva bharathi D",
+    "receiverId": "user-darksoul",
+    "text": "Hello Darksoul! Here is the python tutorial note.",
+    "mediaUrl": "/uploads/1789669165864_notes.pdf",
+    "mediaType": "pdf",
+    "fileName": "notes.pdf",
+    "fileSize": 16,
+    "createdAt": "06:19 PM",
+    "timestamp": 1789669173029,
+    "status": "delivered"
+  }
+]
